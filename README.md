@@ -1,5 +1,5 @@
 # BF-HRproject-sample
-This is partial code for an early version of a project's I did in BF.
+This is partial code for an early version of a project's I did in training with company BF.
 
 The project is aim to implement a Employee onboarding web-application in Microservice architecture.
 
